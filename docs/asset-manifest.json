@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a35882e.css",
+    "main.js": "/static/js/main.b9e6886e.js",
+    "static/media/backend_developer.jpg": "/static/media/backend_developer.a41ba2d77b8fe12aed40.jpg",
+    "static/media/cherianpaul.png": "/static/media/cherianpaul.7750631e0c5c3b78fe27.png",
+    "static/media/bgIMG.png": "/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/hp.png": "/static/media/hp.a9ce23388fafadfc83ed.png",
+    "static/media/travel_application.jpg": "/static/media/travel_application.97a494731e5f7fed65b8.jpg",
+    "static/media/frontend_developer.jpg": "/static/media/frontend_developer.665867d4b22ff1ea454e.jpg",
+    "static/media/desktop_ui_web_app.jpg": "/static/media/desktop_ui_web_app.a77664a1b489f2abb72d.jpg",
+    "static/media/tony.jpg": "/static/media/tony.64f2415caad2455d7440.jpg",
+    "static/media/social_media_application.jpg": "/static/media/social_media_application.69d332969d674aaf1649.jpg",
+    "static/media/e_commerce_website.jpg": "/static/media/e_commerce_website.27010e93ee605ca0af9c.jpg",
+    "static/media/react_native_developer.png": "/static/media/react_native_developer.1068b720107ab7d3114d.png",
+    "static/media/web_designer.jpg": "/static/media/web_designer.7e7073f4df7347e070c2.jpg",
+    "static/media/php.png": "/static/media/php.f69858c95be3fde3eacf.png",
+    "static/media/allsec.png": "/static/media/allsec.8bca18f0fc8f4e45f66b.png",
+    "static/media/deva.jpg": "/static/media/deva.2717a7f38f9ea0e677cf.jpg",
+    "static/media/hc.png": "/static/media/hc.0f2ffa7b6f1351b17c88.png",
+    "static/media/albert.jpg": "/static/media/albert.427f3324fd37956e397d.jpg",
+    "static/media/mysql.png": "/static/media/mysql.908d075aa739f3703b73.png",
+    "static/media/node.png": "/static/media/node.07799131b12c86bc3f24.png",
+    "static/media/mobile.png": "/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/css.png": "/static/media/css.5721a3928fe43de6baf8.png",
+    "index.html": "/index.html",
+    "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.2a35882e.css.map": "/static/css/main.2a35882e.css.map",
+    "main.b9e6886e.js.map": "/static/js/main.b9e6886e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a35882e.css",
+    "static/js/main.b9e6886e.js"
+  ]
+}
