@@ -12,8 +12,8 @@ const Skills = () => {
       year: 2014,
       works: [
         {
-          name: "Freelance Web Developer",
-          company: "Freelance",
+          name: "Independent Software Consultant",
+          company: "Self-employed",
           desc: "Developed Web Applications with HTML5, CSS3, JavaScript and REST API. ",
         },
       ],
